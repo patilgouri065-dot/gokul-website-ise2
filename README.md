@@ -249,6 +249,15 @@ Use the exact filenames you actually save. Include the other screenshots in the 
 This project demonstrates static website development, responsive design, JavaScript interactions, Git/GitHub version control, automated validation and a basic GitHub Actions deployment pipeline. The workflow makes website updates repeatable and provides visible evidence of the build-and-deploy process.
 
 ---
+<img width="1852" height="855" alt="commit history" src="https://github.com/user-attachments/assets/07c1c629-5809-41b1-8094-207e30899f00" />
+<img width="931" height="861" alt="home page" src="https://github.com/user-attachments/assets/03a86a4e-bc62-4327-a8a4-213c31abb50f" />
+<img width="955" height="913" alt="page 2" src="https://github.com/user-attachments/assets/9a8045aa-e3dc-41c1-99a8-eaa92c94b9bf" />
+<img width="940" height="887" alt="page 3" src="https://github.com/user-attachments/assets/00ac4410-a74b-4bb0-9992-e12fba56f58e" />
+<img width="928" height="730" alt="page 4" src="https://github.com/user-attachments/assets/ffdb5137-a317-4b01-a7ef-2c08fa60ec6b" />
+<img width="943" height="875" alt="page 5" src="https://github.com/user-attachments/assets/29460150-bf48-4d8f-855d-ca3bca09cfa7" />
+<img width="920" height="905" alt="repository" src="https://github.com/user-attachments/assets/87af3c9b-3e4a-484e-afc4-480a66b74d71" />
+<img width="922" height="552" alt="DevOps integration" src="https://github.com/user-attachments/assets/d669d80e-50d4-44fa-8654-ea8b064cec7c" />
+<img width="1893" height="415" alt="before change" src="https://github.com/user-attachments/assets/1c71dd5e-c408-4c47-9b86-87b8478a0d6a" />
 
 **Student details to complete before submission**
 - Student name: `[Your name]`
